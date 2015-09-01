@@ -1,7 +1,0 @@
-int main(int arc, char *argv[])
-{
-  pus("Hello world.");
-  
-  return 0;
-
-}
